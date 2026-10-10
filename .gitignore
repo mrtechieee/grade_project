@@ -1,0 +1,4 @@
+data/student_data.db
+data/error.log
+__pycache__/
+*.pyc
